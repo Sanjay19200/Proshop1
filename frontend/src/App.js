@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
     <Header />
-    <main className='py-3'>
+    <main className='py-4'>
       <Container>
     <h1>welcome to proshop</h1>
     
@@ -15,5 +15,5 @@ const App = () => {
     </>
   );
 };
-
+ 
 export default App
